@@ -1,0 +1,25 @@
+intsall laravel  project
+# composer create-project laravel/laravel cms --prefer-dist
+
+
+
+
+run the server
+# php artisan serve
+
+
+step 1
+customize localhost:8000 to doamainName.co.uk
+#C:\xampp\apache\conf\extra 
+--look file 
+#httpd-vhosts.conf 
+
+
+step 2
+#C:\Windows\System32\drivers\etc
+look for -- host
+
+
+
+
+
